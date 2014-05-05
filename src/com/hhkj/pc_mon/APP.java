@@ -5,5 +5,8 @@ public class APP {
 
 		System.out.println("hello word!");
 		System.out.println("hello git! welcome to my app.");
+		
+		
+		System.out.println("github test");
 	}
 }
